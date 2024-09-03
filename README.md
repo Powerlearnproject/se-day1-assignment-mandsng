@@ -73,7 +73,7 @@ Part 2: Introduction to AI and Prompt Engineering
 1. Prompt Engineering and Its Importance:
    Prompt engineering involves crafting specific inputs for AI models to produce accurate outputs. It's crucial for optimizing AI responses and achieving desired results.
 
-2. **Example of Improving a Prompt:
+2.Example of Improving a Prompt:
    - Vague Prompt:"Tell me about technology."
   -Improved Prompt:"Explain the impact of AI on the healthcare industry in 2023."
    - Why It’s Better: The improved prompt is clear, specific, and focused, leading to a more relevant and detailed response. 
